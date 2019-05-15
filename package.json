@@ -25,12 +25,12 @@
   },
   "license": "ISC",
   "dependencies": {
-    "phoenix": "^1.4.0",
-    "react": "^16.7.0-alpha.0",
+    "phoenix": "^1.4.3",
+    "react": "16.8.3",
     "webpack": "^4.25.1"
   },
   "peerDependencies": {
-    "react": "^16.7.0-alpha.0"
+    "react": "16.8.3"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
