@@ -2979,10 +2979,10 @@ pbkdf2@^3.0.3:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
-phoenix@^1.4.3:
-  version "1.4.3"
-  resolved "https://registry.yarnpkg.com/phoenix/-/phoenix-1.4.3.tgz#d8f5820d2700da62f8f353c559513e9449235758"
-  integrity sha512-FU7Ms8SOAGqECRC0RLQMZnLTdrXWureefM0t9K6AqK9jo4hpvUTqjskN/RaGOBXcFGIvgM2F5AFcMop4PPwOSA==
+phoenix@^1.4.6:
+  version "1.4.6"
+  resolved "https://registry.yarnpkg.com/phoenix/-/phoenix-1.4.6.tgz#bf5c1bccbe8f5f0875b3aa1e9e65a68e2273a2d2"
+  integrity sha512-jx6FPYbULh3n6d6tUfv5tX43+jBQ8uQMDN1lwHsvb1w91ryxDoibTPtN3oyhQv5/gmSY3xp3A/ZWYhTYRdkroA==
 
 pify@^3.0.0:
   version "3.0.0"
